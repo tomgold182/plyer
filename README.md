@@ -3,6 +3,7 @@
 ## Fork Changelog
 in this fork ,rather than the PIP version , 2 modules are fixed: camera and vibrator.
 To use with buildozer,instead of writing 'plyer' in the requirements line, write `git+https://github.com/tomgold182/plyer.git`
+
 Plyer is a platform-independent api to use features commonly found on various
 platforms, notably mobile ones, in Python.
 
