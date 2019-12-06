@@ -6,6 +6,7 @@ from plyer.facades import Camera
 from plyer.platforms.android import activity
 
 Intent = autoclass('android.content.Intent')
+PythonActivity = autoclass('org.kivy.android.PythonActivity')
 MediaStore = autoclass('android.provider.MediaStore')
 Uri = autoclass('android.net.Uri')
 
